@@ -1,7 +1,9 @@
-a = int(input("Digite o valor da base: "));
+#exibir a area do retângulo.
 
-b = int(input("Digite o valor da altura: "));
+a = int(input("Digite o valor da base: "))
+
+b = int(input("Digite o valor da altura: "))
 
 area = b * a
 
-print("O valor da área é:", area);
+print("O valor da área é:", area)

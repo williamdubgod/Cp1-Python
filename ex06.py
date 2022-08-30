@@ -1,5 +1,7 @@
-dolar = int(input("Digite a quantidade de dolares: "));
+#tranformar real em dolar.
+
+dolar = int(input("Digite a quantidade de dolares: "))
 
 real = float(dolar * 5.10)
 
-print(dolar, "dolares são", real, "reais");
+print(dolar, "dolares são", real, "reais")

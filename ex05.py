@@ -1,5 +1,7 @@
-celsius = float(input("Digite a temperatura em graus celsius: "));
+#transformar graus celsius em fahrenheit.
 
-fahrenheit = float((celsius * 1.8) + 32);
+celsius = float(input("Digite a temperatura em graus celsius: "))
 
-print(celsius, "graus celsius são", fahrenheit, "fahrenheits");
+fahrenheit = float((celsius * 1.8) + 32)
+
+print(celsius, "graus celsius são", fahrenheit, "fahrenheits")

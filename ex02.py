@@ -1,3 +1,5 @@
+#exibir a area do quadrado.
+
 l = int(input("Digite o valor do lado do quadrado: "));
 
 area = l * l
