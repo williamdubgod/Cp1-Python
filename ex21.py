@@ -3,9 +3,9 @@
 p1 = float(input("Digite sua nota da p1: "))
 p2 = float(input("Digite sua nota da p2: "))
 
-media = (p1 + p2) / 3
+media = (p1 + (2 * p2)) / 3
 
 if media >= 5:
-    print(f"Parabéns, sua média foi: {media:.2f}, você está aprovado!")
+    print(f"Parabéns, sua média foi: {media:.1f}, você está aprovado!")
 else: 
-    print(f"Sua média foi: {media:.2f}, você está reprovado.")
+    print(f"Sua média foi: {media:.1f}, você está reprovado.")
