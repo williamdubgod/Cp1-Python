@@ -13,7 +13,7 @@ elif pagamento == "cartão" or pagamento == "Cartão" or pagamento == "Cartao" o
         print("O total foi de ",valor)
     elif vezes == "nenhuma" or vezes == "Nenhuma" or vezes == "zero" or vezes == "0":
         total = valor - (valor * 0.15)
-        print("O total foi de:",valor)
+        print("O total foi de:", valor)
     else:
         total = valor + (valor * 0.1)
         print("O total foi de:",valor)
