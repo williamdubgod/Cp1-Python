@@ -1,3 +1,5 @@
+#Fazer um programa para receber um número e validar se esse número é positivo. Após isso, exibir a tabuada de 1 a 10 desse número. Use while
+
 print('Tabuada com WHILE')
  
 num = int(input("Digite um numero para obter a tabuada: "))
