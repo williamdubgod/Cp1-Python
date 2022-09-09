@@ -1,4 +1,4 @@
-#  Exibir os trinta primeiros valores da série de Fibonacci.
+#  Exibir os trinta primeiros valores da série de Fibonacci. Use While
 
 t1 = 0
 t2 = 1

@@ -8,7 +8,7 @@ if pagamento == "dinheiro" or pagamento == "Dinheiro":
     print("O total foi de:",total)
 
 elif pagamento == "cartão" or pagamento == "Cartão" or pagamento == "Cartao" or pagamento == "cartao":
-    vezes = input("Em quantas vezes?: ")
+    vezes = input("Em quantas vezes?  ")
     if vezes == "2x" or vezes == "duas" or vezes == "2" or vezes == "duas vezes":
         print("O total foi de ",valor)
     elif vezes == "nenhuma" or vezes == "Nenhuma" or vezes == "zero" or vezes == "0":

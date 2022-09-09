@@ -1,4 +1,4 @@
-# Exibir os vinte primeiros valores da série de Bergamaschi.
+# Exibir os vinte primeiros valores da série de Bergamaschi. Use While.
 
 t1 = 1
 t2 = 1
