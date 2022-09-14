@@ -2,8 +2,10 @@
 # a) O maior valor;
 # b) A soma dos valores;
 # c) A média aritmética dos valores;
+# Use for.
 
-s=0
+s = 0
+
 for i in range(1, 11, 1):
     n = int(input("Digite um valor: "))
     while(n < 0):
